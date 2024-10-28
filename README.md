@@ -15,3 +15,14 @@ Thanks for visiting my profile!
 --!>
 
 <h1 align="center">Hello 👋, I'm Priyansh!</h1>
+
+<img align='right' alt='Coding width = '400' 
+src="Cover_img.jpg"><br>
+
+<br>
+
+<div align="center">
+
+### Data Scientist | Data Analyst | Machine Learning enthusiast
+
+</div>
