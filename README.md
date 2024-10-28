@@ -14,4 +14,4 @@ Thanks for visiting my profile!
 
 --!>
 
-<h1 align="center">Hello 👋, I'm Jani Miya Shaik</h1>
+<h1 align="center">Hello 👋, I'm Priyansh!</h1>
