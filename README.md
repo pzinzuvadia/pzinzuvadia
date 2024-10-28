@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Priyansh</h1>
 
-<h3 align = 'center'>Data Analyst | Data Scientist | ML & AI Enthusiast
+<h3 align = 'center'>Data Analyst | Data Engineer | Data Scientist | ML & AI Enthusiast
   
 <p align="left"> 
   <a href="https://linkedin.com/in/pszinzuvadia" target="_blank">
