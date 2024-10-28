@@ -4,7 +4,12 @@
 <h3 align = 'center'>Data Analyst | Data Scientist | ML & AI Enthusiast
   
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pzinzuvadia&label=Profile%20views&color=0e75b6&style=flat" alt="pzinzuvadia" />
+  <a href="https://linkedin.com/in/pszinzuvadia" target="_blank">
+    <img src="https://img.shields.io/badge/-Priyansh%20Zinzuvadia-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Priyansh Zinzuvadia" />
+  </a>
+  <a align = 'right'>
+    <img align = 'right' src="https://komarev.com/ghpvc/?username=pzinzuvadia&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pzinzuvadia" />
+  </a>
 </p>
 
 <img align='center' alt='Data Science Word Cloud' width='1000' height='400' src="Cover_img.jpg"><br>
@@ -81,11 +86,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-## 🌐 Socials:
-[![Priyansh S Zinzuvadia](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pszinzuvadia/) 
-
-<br>
 
 ## 📊 GitHub Stats:
 <p align="center">
