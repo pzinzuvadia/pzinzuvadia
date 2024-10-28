@@ -27,8 +27,6 @@
 
 💬 **Let’s Talk Tech**: Reach out to chat about SQL, Python, Data Science, Data Engineering, Cloud Services, and Project Management.
 
-📫 **Get in Touch**: Email me at priyanshszinzuvadia@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pszinzuvadia/).
-
 
 ## Technical Skills
 
