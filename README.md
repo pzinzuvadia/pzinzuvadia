@@ -7,9 +7,6 @@
   <a href="https://linkedin.com/in/pszinzuvadia" target="_blank">
     <img src="https://img.shields.io/badge/-Priyansh%20Zinzuvadia-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Priyansh Zinzuvadia" />
   </a>
-  <a align = 'right'>
-    <img align = 'right' src="https://komarev.com/ghpvc/?username=pzinzuvadia&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pzinzuvadia" />
-  </a>
 </p>
 
 <img align='center' alt='Data Science Word Cloud' width='1000' height='400' src="Cover_img.jpg"><br>
